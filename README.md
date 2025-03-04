@@ -1,7 +1,3 @@
-✅ README.md for DocuChat
-md
-Copy
-Edit
 # 📄 DocuChat - Talk to PDFs
 
 ### **Chat with multiple PDFs using AI-powered Retrieval-Augmented Generation (RAG) and Ollama's local LLaMA model.**
