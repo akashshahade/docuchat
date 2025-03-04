@@ -24,12 +24,3 @@ DocuChat is a **Streamlit-based AI chatbot** that allows users to **upload multi
 - **AI Model**: LLaMA 3.2 1B (runs locally via Ollama)  
 - **PDF Processing**: PyPDF  
 
----
-
-## 🔧 **Installation Guide**
-### **1️⃣ Prerequisites**
-Make sure you have the following installed:
-- **Python 3.9+** – [Download here](https://www.python.org/downloads/)
-- **Git** – [Download here](https://git-scm.com/downloads)
-- **Ollama** – [Install from here](https://ollama.com/)
-
